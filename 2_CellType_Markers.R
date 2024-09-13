@@ -1,4 +1,4 @@
-### DE analysis ###
+### Cell type markers identification ###
 
 # PACKAGES INSTALLATION
 install.packages("readr")
