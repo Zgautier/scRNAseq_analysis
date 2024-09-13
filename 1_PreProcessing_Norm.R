@@ -3,10 +3,10 @@
 ### PACKAGES INSTALLATION ###
 install.packages("readr")
 install.packages("Seurat")
-install.packages('BiocManager')
+install.packages("BiocManager")
 BiocManager::install("biomaRt")
-BiocManager::install('SingleCellExperiment',force=TRUE)
-BiocManager::install('scuttle',force=TRUE)
+BiocManager::install("SingleCellExperiment")
+BiocManager::install("scuttle")
 
 library(R.utils)
 library(readr)
